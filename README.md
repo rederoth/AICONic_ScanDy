@@ -21,12 +21,13 @@ If you want to run the model and have problems with the installation, please con
 
 If this project is useful for your research, please cite our pre-print:
 > Mengers\*, V., Roth\*, N., Brock\*\*, O., Obermayer\*\*, K., & Rolfs\*\*, M. (2024). A Robotics-Inspired Scanpath Model Reveals the Importance of Uncertainty and Semantic Object Cues for Gaze Guidance in Dynamic Scenes. *arXiv preprint* arXiv:2408.01322.
+
 \* equal contribution; \*\* equal supervision
 
 ```bibtex
 @article{mengersroth2024robotics,
   title={A Robotics-Inspired Scanpath Model Reveals the Importance of Uncertainty and Semantic Object Cues for Gaze Guidance in Dynamic Scenes},
-  author={Mengers\*, Vito and Roth\*, Nicolas and Brock\*\*, Oliver and Obermayer\*\*, Klaus and Rolfs\*\*, Martin},
+  author={Mengers*, Vito and Roth*, Nicolas and Brock**, Oliver and Obermayer**, Klaus and Rolfs**, Martin},
   journal={arXiv preprint arXiv:2408.01322},
   year={2024}
 }
@@ -36,10 +37,10 @@ If this project is useful for your research, please cite our pre-print:
 
  If you have feedback, questions, and/or ideas, feel free to send a [mail](mailto:roth@tu-berlin.de) to Nico.
 
-Nicolas Roth,
-PhD Student at Science of Intelligence;
-Neural Information Processing Group,
-Fakultaet IV, Technische Universitaet Berlin,
+Nicolas Roth,\
+PhD Student at Science of Intelligence;\
+Neural Information Processing Group,\
+Fakultaet IV, Technische Universitaet Berlin,\
 MAR 5-6, Marchstr. 23, 10587 Berlin
 
 ### Acknowledgments
