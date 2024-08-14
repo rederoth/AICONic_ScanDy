@@ -13,7 +13,7 @@ The object segmentation module is based on a Bayesian particle filter that recur
 
 All figures from our manuscript (Mengers, Roth et al., 2024) can be reproduced with [this notebook](aiconic_scandy/src/result_figs.ipynb), which is also executable on [Colab](https://colab.research.google.com/github/rederoth/AICONic_ScanDy/blob/main/aiconic_scandy/src/result_figs.ipynb).
 
-If you want to run the model yourself, you first have to add the semantic segmentation submodules (see `aiconic_scandy/semantic_segmentation/README.md`). 
+If you want to run the model yourself, you first have to add the semantic segmentation submodules (see `aiconic_scandy/semantic_segmentation/README.md`).
 The easiest way to install all dependencies is to create a conda environment from the provided config file:
 
 ```bash
