@@ -1,3 +1,0 @@
-[submodule "aiconic_scandy/semantic_segmentation/FastSAM"]
-	path = aiconic_scandy/semantic_segmentation/FastSAM
-	url = https://github.com/CASIA-IVA-Lab/FastSAM
