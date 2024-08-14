@@ -23,7 +23,7 @@ conda env create --file=cluster_config.yml
 In our experience, the combination of `opencv` and the installation of the semantic segmentation modules can lead to some issues.
 If you have problems with the installation, please contact us (see below).
 
-The video data (including the object segmentations and optical flow) used for the results in the manuscript is openly available on OSF: http://doi.org/10.17605/OSF.IO/JYXUR.
+The video data (including the object segmentations, saliency, and optical flow) used for the results in the manuscript is openly available on OSF: http://doi.org/10.17605/OSF.IO/JYXUR.
 
 ## More information
 
